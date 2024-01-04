@@ -1,7 +1,8 @@
 repo_name: terasa/eseles
 report_id: bbfbfb21f34ad0c091abf4d55e497d6e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T14:29:42+00:00'
+timestamp: '2024-01-04T14:55:42+00:00'
 requested_by: terasa
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/terasa/eseles
   detection_source: Repo Metadata
